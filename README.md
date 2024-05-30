@@ -1,8 +1,7 @@
 # Simple-Smart-City
 Introduction:
 
-In the ever changing world of technology, automation has come to be an element of our daily life. An important common use of automation is in parking systems. Car parking systems are not only handy, but they also play an important role in managing limited parking places. In this blog article, we will look at a project that focuses on developing a “Car Parking System” with Arduino. An innovative way to improve and expedite parking facilities’ efficiency is the Automatic Car Parking System with Arduino and I2C LCD Display. This creative solution automates the parking procedure by using the capabilities of Arduino, an adaptable open-source electronics platform. The system may provide real-time information on an I2C LCD Display, identify the presence of cars, and direct them to available parking places by combining sensors and actuators. This enhances the organization and usability of the parking experience in addition to optimizing the use of available parking spaces. This project is an excellent example of how ease and technology can coexist in contemporary vehicle infrastructure because of its clever automation and intuitive interface.
-
+In the ever changing world of technology, automation has come to be an element of our daily life. An important common use of automation is in parking systems. Car parking systems are not only handy, but they also play an important role in managing limited parking places. In this blog article, we will look at a project that focuses on developing a “Car Parking System” with Arduino. An innovative way to improve and expedite parking facilities’ efficiency is the Automatic Car Parking System with Arduino and I2C LCD Display. This creative solution automates the parking procedure by using the capabilities of Arduino, an adaptable open-source electronics platform. The system may provide real-time information on an I2C LCD Display, identify the presence of cars, and direct them to available parking places by combining sensors and actuators. This enhances the organization and usability of the parking experience in addition to optimizing the use of available parking spaces. This project is an excellent example of how ease and technology can coexist in contemporary vehicle infrastructure because of its clever automation and intuitive interface.As for the  LED street lighting  using LDR electronics sensor was the best choice for saving electricity until sun falls.
 Components Required:
 
 Arduino UNO
@@ -13,6 +12,7 @@ Mini Servo Motor SG-90 (for barrier control)
 Six IR Sensors (for individual parking slots)
 Power source (220V)
 Power Adapter (5V, 2A)
+light dependent resistor
 
 
 
